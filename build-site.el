@@ -7,7 +7,7 @@
 
 (setq org-publish-project-alist
       (list
-       (list "MitOS"
+       (list "Records"
 	     :recursive t
 	     :base-directory "./contents/"
 	     :with-author nil
