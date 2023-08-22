@@ -11,8 +11,7 @@
 	     :recursive t
 	     :base-directory "./contents/"
 	     :with-author nil
-	     :with-creator
-	     t
+	     :with-creator t
 	     :with-toc nil
 	     :secction-numbers nil
 	     :publishing-directory "./public/"
